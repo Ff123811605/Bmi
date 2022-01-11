@@ -5,4 +5,5 @@
     <string name="calculate_bmi">Calculate BMI</string>
     <string name="help">Help</string>
     <string name="your_bmi">Your BMI</string>
+    <string name="help_info">Weight(kg) / square of Height(m)</string>
 </resources>

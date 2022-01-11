@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Bmi Jazoe</string>
-    <string name="weight_kg">體重(公斤)</string>
-    <string name="height_m">身高(公尺)</string>
+    <string name="weight_kg">體重(kg)</string>
+    <string name="height_m">身高(m)</string>
     <string name="calculate_bmi">計算 BMI</string>
     <string name="help">說明</string>
     <string name="your_bmi">你的 BMI</string>
+    <string name="help_info">體重(kg) / 身高的平方(m)</string>
 </resources>
