@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Bmi Jazoe</string>
+    <string name="weight_kg">Weight(kg)</string>
+    <string name="height_m">Height(m)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="help">Help</string>
+    <string name="your_bmi">Your BMI</string>
 </resources>
