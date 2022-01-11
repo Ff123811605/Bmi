@@ -40,7 +40,6 @@ class MainActivity : AppCompatActivity() {
             } else {
                 bmi = 0f
             }
-
             Log.d("BMI", bmi.toString())
             //Toast.makeText(this, bmi.toString(), Toast.LENGTH_LONG).show()
 
